@@ -1,0 +1,68 @@
+{
+  "tester5": {
+    "type": "student",
+    "data": {
+      "fName": "bind",
+      "lName": "maman",
+      "courses": [
+        {
+          "code": "56gi12",
+          "time": "jour/s4"
+        }
+      ]
+    }
+  },
+  "halala": {
+    "data": {
+      "fName": "bind",
+      "courses": [
+        {
+          "code": "56gi12",
+          "time": "jour/s4"
+        }
+      ]
+    }
+  },
+  "testfNametestlName": {
+    "data": {
+      "fName": "testfName",
+      "lName": "testlName",
+      "courses": [
+        {
+          "code": "6gen723-03",
+          "time": "jour"
+        },
+        {
+          "code": "7gin101-11",
+          "time": "soir"
+        }
+      ]
+    }
+  },
+  "tester7": {
+    "type": "student",
+    "data": {
+      "fName": "bind",
+      "lName": "maman",
+      "courses": [
+        {
+          "code": "56gi12",
+          "time": "jour/s4"
+        }
+      ]
+    }
+  },
+  "IDprof": {
+    "type": "prof",
+    "data": {
+      "client": "isa",
+      "prenom": "maman",
+      "courses": [
+        {
+          "code": "prof3",
+          "time": "jour"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,87 @@
+2024-04-16 16:41:13,676 - INFO - Serveur démarré à 172.19.143.96:80. En attente de connexions...
+2024-04-16 16:41:47,840 - INFO - Serveur démarré à 172.19.143.96:80. En attente de connexions...
+2024-04-16 16:47:01,544 - INFO - Serveur démarré à 172.19.143.96:80. En attente de connexions...
+2024-04-16 17:40:22,288 - ERROR - Erreur lors de la notification du client : [WinError 10038] Une opération a été tentée sur autre chose qu’un socket
+2024-04-17 06:13:47,086 - INFO - Serveur démarré à 192.168.0.120:80. En attente de connexions...
+2024-04-17 06:41:37,092 - INFO - Serveur démarré à 192.168.0.120:80. En attente de connexions...
+2024-04-17 06:48:18,207 - INFO - Authentification réussie pour user1
+2024-04-17 06:48:18,207 - INFO - le client 192.168.0.120:80connecte serveur
+2024-04-17 07:35:44,126 - INFO - Serveur démarré à 192.168.0.120:80. En attente de connexions...
+2024-04-17 07:54:32,926 - INFO - le client ('192.168.0.120', 57474)connecte serveur
+2024-04-17 07:54:32,927 - INFO - Authentification réussie pour user1
+2024-04-17 08:07:09,365 - INFO - le client ('192.168.0.120', 60839)connecte serveur
+2024-04-17 08:07:09,365 - INFO - Authentification réussie pour user1
+2024-04-17 09:17:00,853 - INFO - le client ('192.168.33.34', 63535)connecte serveur
+2024-04-17 09:17:56,456 - INFO - le client ('192.168.33.34', 63781)connecte serveur
+2024-04-17 09:32:45,519 - INFO - le client ('192.168.33.34', 51632)connecte serveur
+2024-04-17 09:32:45,522 - WARNING - Tentative de connexion infructueuse pour user1
+2024-04-17 09:33:22,212 - INFO - le client ('192.168.33.34', 51793)connecte serveur
+2024-04-17 09:33:22,212 - INFO - Authentification réussie pour user1
+2024-04-17 09:33:52,384 - INFO - le client ('192.168.33.34', 51936)connecte serveur
+2024-04-17 09:39:21,473 - INFO - le client ('192.168.33.34', 53380)connecte serveur
+2024-04-17 09:39:21,473 - INFO - Authentification réussie pour user1
+2024-04-17 09:39:21,482 - ERROR - Erreur lors de la notification du client : [WinError 10038] Une opération a été tentée sur autre chose qu’un socket
+2024-04-17 09:41:54,572 - INFO - le client ('192.168.33.34', 54074)connecte serveur
+2024-04-17 09:48:18,703 - INFO - le client ('192.168.33.34', 55774)connecte serveur
+2024-04-17 09:48:18,703 - INFO - Authentification réussie pour user1
+2024-04-17 09:48:18,709 - ERROR - Erreur lors de la notification du client : [WinError 10038] Une opération a été tentée sur autre chose qu’un socket
+2024-04-17 09:48:18,709 - ERROR - Erreur lors de la notification du client : [WinError 10038] Une opération a été tentée sur autre chose qu’un socket
+2024-04-17 09:48:41,925 - INFO - le client ('192.168.33.34', 55889)connecte serveur
+2024-04-17 09:52:12,212 - INFO - le client ('192.168.33.34', 56816)connecte serveur
+2024-04-17 09:52:12,220 - INFO - Authentification réussie pour user1
+2024-04-17 09:52:12,224 - ERROR - Erreur lors de la notification du client : [WinError 10038] Une opération a été tentée sur autre chose qu’un socket
+2024-04-17 09:52:12,224 - ERROR - Erreur lors de la notification du client : [WinError 10038] Une opération a été tentée sur autre chose qu’un socket
+2024-04-17 09:52:12,224 - ERROR - Erreur lors de la notification du client : [WinError 10038] Une opération a été tentée sur autre chose qu’un socket
+2024-04-17 09:52:23,257 - INFO - le client ('192.168.33.34', 56863)connecte serveur
+2024-04-18 22:44:51,422 - INFO - Serveur démarré à 172.19.140.11:80. En attente de connexions...
+2024-04-18 22:48:45,462 - INFO - le client ('172.19.140.11', 50373)connecte serveur
+2024-04-18 22:48:45,462 - INFO - Authentification réussie pour user1
+2024-04-18 22:48:45,462 - INFO - Taitement POST ID ressource IDprof
+2024-04-18 22:49:33,348 - INFO - le client ('172.19.140.11', 50609)connecte serveur
+2024-04-18 22:49:33,348 - INFO - Taitement GET ID ressource <socket.socket fd=488, family=2, type=1, proto=0, laddr=('172.19.140.11', 80), raddr=('172.19.140.11', 50609)>
+2024-04-19 03:19:27,012 - INFO - le client ('192.168.0.120', 50642)connecte serveur
+2024-04-19 03:19:27,018 - INFO - Authentification réussie pour user1
+2024-04-19 03:19:27,020 - INFO - Taitement POST ID ressource IDprof
+2024-04-19 03:19:27,022 - ERROR - Erreur lors de la notification du client : [WinError 10038] Une opération a été tentée sur autre chose qu’un socket
+2024-04-19 03:21:30,773 - INFO - le client ('192.168.0.120', 51208)connecte serveur
+2024-04-19 03:21:57,963 - INFO - le client ('192.168.0.120', 51329)connecte serveur
+2024-04-19 03:23:07,009 - INFO - le client ('192.168.0.120', 51630)connecte serveur
+2024-04-19 03:23:07,011 - INFO - Taitement GET ID ressource <socket.socket fd=172, family=2, type=1, proto=0, laddr=('192.168.0.120', 80), raddr=('192.168.0.120', 51630)>
+2024-04-19 03:23:35,882 - INFO - le client ('192.168.0.120', 51758)connecte serveur
+2024-04-19 03:23:35,882 - INFO - Authentification réussie pour user1
+2024-04-19 03:23:35,882 - INFO - Taitement POST ID ressource IDprof
+2024-04-19 03:23:35,882 - ERROR - Erreur lors de la notification du client : [WinError 10038] Une opération a été tentée sur autre chose qu’un socket
+2024-04-19 03:23:35,882 - ERROR - Erreur lors de la notification du client : [WinError 10038] Une opération a été tentée sur autre chose qu’un socket
+2024-04-19 03:33:06,310 - INFO - Serveur démarré à 192.168.0.120:80. En attente de connexions...
+2024-04-19 03:34:28,094 - INFO - le client ('192.168.0.120', 54641)connecte serveur
+2024-04-19 03:34:28,096 - INFO - Taitement GET ID ressource <socket.socket fd=500, family=2, type=1, proto=0, laddr=('192.168.0.120', 80), raddr=('192.168.0.120', 54641)>
+2024-04-19 03:34:58,110 - INFO - le client ('192.168.0.120', 54775)connecte serveur
+2024-04-19 03:34:58,110 - INFO - Authentification réussie pour user1
+2024-04-19 03:34:58,110 - INFO - Taitement POST ID ressource IDprof
+2024-04-19 03:34:58,110 - ERROR - Erreur lors de la notification du client : [WinError 10038] Une opération a été tentée sur autre chose qu’un socket
+2024-04-22 10:47:01,740 - INFO - Serveur démarré à 172.19.132.197:80. En attente de connexions...
+2024-04-22 10:55:59,968 - INFO - le client ('172.19.132.197', 64572)connecte serveur
+2024-04-22 11:06:35,564 - ERROR - Erreur lors du traitement de la requête: [WinError 10054] Une connexion existante a dû être fermée par l’hôte distant
+2024-04-22 11:08:04,616 - INFO - le client ('172.19.132.197', 51918)connecte serveur
+2024-04-22 11:11:14,464 - ERROR - Erreur lors du traitement de la requête: [WinError 10054] Une connexion existante a dû être fermée par l’hôte distant
+2024-04-22 11:12:02,974 - INFO - Serveur démarré à 172.19.132.197:80. En attente de connexions...
+2024-04-22 11:12:44,637 - INFO - le client ('172.19.132.197', 53262)connecte serveur
+2024-04-22 11:13:27,984 - ERROR - Erreur lors du traitement de la requête: [WinError 10054] Une connexion existante a dû être fermée par l’hôte distant
+2024-04-22 11:14:30,354 - INFO - le client ('172.19.132.197', 53761)connecte serveur
+2024-04-22 11:17:45,557 - INFO - le client ('172.19.132.197', 54691)connecte serveur
+2024-04-22 11:22:14,475 - INFO - le client ('172.19.132.197', 55971)connecte serveur
+2024-04-22 11:22:14,477 - INFO - Authentification réussie pour user1
+2024-04-22 11:22:14,478 - INFO - Taitement POST ID ressource IDprof
+2024-04-22 11:22:53,221 - INFO - le client ('172.19.132.197', 56150)connecte serveur
+2024-04-22 11:22:53,222 - INFO - Taitement GET ID ressource <socket.socket fd=488, family=2, type=1, proto=0, laddr=('172.19.132.197', 80), raddr=('172.19.132.197', 56150)>
+2024-04-22 11:23:30,385 - INFO - le client ('172.19.132.197', 56327)connecte serveur
+2024-04-22 11:23:30,386 - INFO - Authentification réussie pour user1
+2024-04-22 11:23:30,387 - INFO - Taitement POST ID ressource IDprof
+2024-04-22 11:23:30,388 - ERROR - Erreur lors de la notification du client : [WinError 10038] Une opération a été tentée sur autre chose qu’un socket
+2024-04-22 11:26:31,133 - INFO - le client ('172.19.132.197', 57194)connecte serveur
+2024-04-22 11:26:31,134 - INFO - Taitement GET ID ressource <socket.socket fd=484, family=2, type=1, proto=0, laddr=('172.19.132.197', 80), raddr=('172.19.132.197', 57194)>
+2024-04-22 11:27:14,403 - INFO - le client ('172.19.132.197', 57407)connecte serveur
+2024-04-22 11:27:14,404 - INFO - Authentification réussie pour user1
+2024-04-22 11:27:14,405 - INFO - Taitement POST ID ressource IDprof
+2024-04-22 11:27:14,405 - ERROR - Erreur lors de la notification du client : [WinError 10038] Une opération a été tentée sur autre chose qu’un socket
+2024-04-22 11:27:14,405 - ERROR - Erreur lors de la notification du client : [WinError 10038] Une opération a été tentée sur autre chose qu’un socket
